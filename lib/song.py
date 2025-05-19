@@ -42,4 +42,5 @@ class Song:
             cls.artist_count[artist] += 1
         else:
             cls.artist_count[artist] = 1
-    
+#the class is used to create a song object with name, artist and genre
+#la class coming soon
